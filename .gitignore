@@ -1,0 +1,12 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/bin/
+/dev/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+maven-metadata-local.xml
